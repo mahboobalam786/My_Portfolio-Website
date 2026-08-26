@@ -293,7 +293,19 @@ textarea {
   text-shadow:
     0 0 12px rgba(66, 234, 214, 0.25);
 }
+.about-label {
+  color: #00e5d4 !important;
+  font-weight: 700 !important;
+  font-size: 18px;
+}
 
+/* Mobile */
+@media (max-width: 768px) {
+  .about-label {
+    color: #00e5d4 !important;
+    font-weight: 700 !important;
+  }
+}
 
 /* =================================
    MAIN TITLE
