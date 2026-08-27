@@ -41,7 +41,7 @@ textarea {
   align-items: center;
   justify-content: center;
 
-  padding: 2.5px 25px;
+  padding:2.5px 25px;
 
   border-radius: 60px;
 
@@ -103,7 +103,8 @@ textarea {
    INTRO TAGS
 ========================= */
 
-.intro-tags {
+
+/* .intro-tags {
   color: #f2f4ed;
 
   font-size: 15px;
@@ -118,7 +119,7 @@ textarea {
   margin-bottom: 8px;
 
   text-shadow: 0 0 8px rgba(255, 255, 255, 0.08);
-}
+} */
 
 
 /* =========================
@@ -126,22 +127,22 @@ textarea {
 ========================= */
 
 .college {
-  color: #dce9e5;
+  color: #eff7f4;
 
   font-size: 15px;
   font-weight: 600;
 
-  line-height: 1;
+  line-height: 1.4;
   letter-spacing: 0.4px;
 
   text-align: left;
 
-  margin-top: 0;
-  margin-bottom: 35px;
+  margin-top: 10px;
+  margin-bottom: -20px;
 
-  text-shadow: 0 0 10px rgba(65, 240, 195, 0.08);
+  /* halka sa glow */
+  text-shadow: 0 0 6px rgba(32, 200, 245, 0.18);
 }
-
 /* =====================================================
    BACKGROUND
 ===================================================== */
